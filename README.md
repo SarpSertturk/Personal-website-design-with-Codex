@@ -1,4 +1,4 @@
-# Philosophy Writings by Sarp Sertturk
+# Personal Website: Philosophy Writings by Sarp Sertturk
 
 A mobile-friendly English website presenting 39 philosophy writings written over the course of one year.
 
