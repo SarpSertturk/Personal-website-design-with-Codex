@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">stoicism</title>
+<desc id="desc">Subject-specific editorial illustration</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4e9e3"/><stop offset="1" stop-color="#f8f6ef"/></linearGradient><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.2" fill="#25443c" opacity=".075"/><circle cx="27" cy="24" r="1" fill="#d76d42" opacity=".055"/></pattern></defs>
+<rect width="1440" height="500" fill="url(#paper)"/><rect width="1440" height="500" fill="url(#grain)"/>
+<circle cx="1135" cy="220" r="210" fill="#9eb3a6" opacity=".15"/><path d="M0 435Q185 400 370 435T740 435T1110 435T1480 435V520H0Z" fill="#9eb3a6" opacity=".14"/>
+<path d="M-20 68H320M1120 452h340" stroke="#25443c" stroke-opacity=".13" stroke-width="2"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M0 368q160-54 320 0t320 0 320 0 320 0 320 0v152H0Z" fill="#c8d5cb"/><path d="M730 401V183h180v218M698 183h244l-32-53H730ZM710 401h220" fill="#d8c89f" stroke="#25443c" stroke-width="8"/><path d="M350 156q64 22 115 0t114 0M1060 202q68 24 123 0t95 0" fill="none" stroke="#83aaa5" stroke-width="9" stroke-linecap="round"/><path d="M1090 127l-34 46m96-80-34 46" stroke="#d76d42" stroke-width="7"/></g></svg>

@@ -1,0 +1,159 @@
+{
+  "Thales.docx": {
+    "src": "assets/essays/thales.svg",
+    "alt": "A coastal scene with waves and a rising sun, illustrating water as the first principle."
+  },
+  "Anaksimandros.docx": {
+    "src": "assets/essays/anaximander.svg",
+    "alt": "An early world map beneath a ring of celestial orbits, for Anaximander’s apeiron and cosmology."
+  },
+  "Anaksimenes.docx": {
+    "src": "assets/essays/anaximenes.svg",
+    "alt": "Clouds and wind currents encircle a small world, representing air and its transformations."
+  },
+  "Empedokles.docx": {
+    "src": "assets/essays/empedocles.svg",
+    "alt": "Four classical elements, shown as flame, water, wind, and stone joined in a circular composition."
+  },
+  "Herakleistos vs. Parmenides.docx": {
+    "src": "assets/essays/heraclitus-parmenides.svg",
+    "alt": "A flowing river meets an unbroken stone sphere, contrasting change with permanence."
+  },
+  "Atomcular.docx": {
+    "src": "assets/essays/atomists.svg",
+    "alt": "Atoms move through open space along intersecting orbital paths."
+  },
+  "Pythagoras.docx": {
+    "src": "assets/essays/pythagoras.svg",
+    "alt": "A lyre and measured strings evoke mathematical proportion and musical harmony."
+  },
+  "Protagoras ve Sofizm.docx": {
+    "src": "assets/essays/protagoras.svg",
+    "alt": "Two theatrical masks face one another, a visual metaphor for perspective and rhetoric."
+  },
+  "Sokrates Üzerine.docx": {
+    "src": "assets/essays/socrates.svg",
+    "alt": "A philosopher’s profile sits beside an open dialogue scroll and a questioning speech mark."
+  },
+  "Platon-İdealar Kuramı.docx": {
+    "src": "assets/essays/plato-forms.svg",
+    "alt": "A cave opens toward a beam of light and a perfect circular form above the shadows."
+  },
+  "Platon-Devlet.docx": {
+    "src": "assets/essays/platos-republic.svg",
+    "alt": "An ordered ideal city rises around a central civic hall and balanced streets."
+  },
+  "Perikles Dönemi Atinası.docx": {
+    "src": "assets/essays/periclean-athens.svg",
+    "alt": "The Acropolis overlooks a harbor, connecting Athenian civic life with trade and the sea."
+  },
+  "Aristoteles Metafiziği.docx": {
+    "src": "assets/essays/aristotle-metaphysics.svg",
+    "alt": "A sculpted head studies a suspended sphere, suggesting form, substance, and first principles."
+  },
+  "Aristotelesin Politikası.docx": {
+    "src": "assets/essays/aristotle-politics.svg",
+    "alt": "Citizens gather in an agora beneath the columns of a shared city space."
+  },
+  "Helenistik Dönem.docx": {
+    "src": "assets/essays/hellenistic-period.svg",
+    "alt": "A ship travels beyond familiar shores under a wide night sky, evoking the Hellenistic world."
+  },
+  "Kinizm ve Kuşkuculuk.docx": {
+    "src": "assets/essays/cynicism-skepticism.svg",
+    "alt": "A traveler’s lantern illuminates two diverging paths, evoking skepticism and a simpler life."
+  },
+  "Stoacılık.docx": {
+    "src": "assets/essays/stoicism.svg",
+    "alt": "A steady stone column stands against wind and rain, symbolizing composure under pressure."
+  },
+  "Neoplatonizm.docx": {
+    "src": "assets/essays/neoplatonism.svg",
+    "alt": "Light flows from a single source through nested circles into the many."
+  },
+  "İslam Felsefesi.docx": {
+    "src": "assets/essays/islamic-philosophy.svg",
+    "alt": "An astrolabe and crescent moon evoke astronomy, translation, and philosophical inquiry."
+  },
+  "Skolastik Felsefe.docx": {
+    "src": "assets/essays/scholastic-philosophy.svg",
+    "alt": "An illuminated manuscript and Gothic arch represent medieval debate and scholarship."
+  },
+  "Thomas More Ütopya.docx": {
+    "src": "assets/essays/utopia.svg",
+    "alt": "An imagined island city sits within a circular coastline and sheltered harbor."
+  },
+  "Machiavelli.docx": {
+    "src": "assets/essays/machiavelli.svg",
+    "alt": "A chessboard, a crown, and a guarded tower evoke strategy and political power."
+  },
+  "Modern Dönem Toplum Sözleşmesi.docx": {
+    "src": "assets/essays/social-contract.svg",
+    "alt": "People gather around a shared table, joining hands to form a civic agreement."
+  },
+  "John Locke & Liberalizm.docx": {
+    "src": "assets/essays/locke-liberalism.svg",
+    "alt": "An open book and a key represent natural rights, consent, and liberal thought."
+  },
+  "Marksizm Eleştirisi.docx": {
+    "src": "assets/essays/marxism-critique.svg",
+    "alt": "Factory gears and a balance scale evoke labor, class, and critique of political economy."
+  },
+  "Descartes ve Metodik Şüphe.docx": {
+    "src": "assets/essays/descartes.svg",
+    "alt": "A lens, reflection, and coordinate axes depict methodical doubt and the thinking subject."
+  },
+  "David Hume ve İnsanın Anlama Sınırları Üzerine.docx": {
+    "src": "assets/essays/hume.svg",
+    "alt": "Repeated footprints lead toward a horizon, evoking habit, induction, and the limits of certainty."
+  },
+  "Immanuel Kant & Transandantal İdealizm.docx": {
+    "src": "assets/essays/kant-idealism.svg",
+    "alt": "A grid of perception frames a landscape through a lens, representing Kant’s account of experience."
+  },
+  "Tümevarım vs. Tümdengelim.docx": {
+    "src": "assets/essays/induction-deduction.svg",
+    "alt": "Observation points branch into a general rule while a straight line traces a deductive conclusion."
+  },
+  "Karl Popper Yanlışlanabilirlik İlkesi.docx": {
+    "src": "assets/essays/popper.svg",
+    "alt": "A test apparatus sends a hypothesis through a prism of evidence and a falsification check."
+  },
+  "Hileli Mantık ve Manipülasyon.docx": {
+    "src": "assets/essays/fallacies.svg",
+    "alt": "A maze-like argument path splits into misleading arrows and a clear route."
+  },
+  "Etik ve itibar.docx": {
+    "src": "assets/essays/ethics-reputation.svg",
+    "alt": "Interwoven threads form a steady pattern, symbolizing ethical conduct and reputation built over time."
+  },
+  "Suistimal.docx": {
+    "src": "assets/essays/abuse-of-trust.svg",
+    "alt": "A once-connected bridge has a broken span, representing damaged trust and accountability."
+  },
+  "Friedrich Nietzsche ve Güç İstemi.docx": {
+    "src": "assets/essays/nietzsche-will.svg",
+    "alt": "A lone climber approaches a high ridge beneath an expansive sky."
+  },
+  "Friedrich Nietzsche ve Üst İnsan.docx": {
+    "src": "assets/essays/nietzsche-overman.svg",
+    "alt": "A figure climbs a stairway beyond a shadow toward a new horizon."
+  },
+  "Belirsizlikler Çağında Rasyonel Karar Alma.docx": {
+    "src": "assets/essays/decision-uncertainty.svg",
+    "alt": "A branching path, compass, and uncertain horizon represent decisions under uncertainty."
+  },
+  "Dijital_Çağda_Odaklanma_Erozyonu.docx": {
+    "src": "assets/essays/digital-focus.svg",
+    "alt": "A reader faces a phone while fragmented signals pull attention in different directions."
+  },
+  "Erosion of Critical Thinking in the age of AI.docx": {
+    "src": "assets/essays/critical-thinking-ai-en.svg",
+    "alt": "A hand reaches from a book toward a machine-shaped network, balancing assistance and intellectual effort."
+  },
+  "Immanuel_Kant & Sistem Düşüncesi_Sarp_Serttürk.pdf": {
+    "src": "assets/essays/kant-systems.svg",
+    "alt": "A planned architectural structure connects parts into a coherent whole, evoking Kant’s systems thinking."
+  }
+}
+

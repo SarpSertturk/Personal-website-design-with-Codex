@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">socrates</title>
+<desc id="desc">Subject-specific editorial illustration</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4e8de"/><stop offset="1" stop-color="#f8f6ef"/></linearGradient><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.2" fill="#25443c" opacity=".075"/><circle cx="27" cy="24" r="1" fill="#d76d42" opacity=".055"/></pattern></defs>
+<rect width="1440" height="500" fill="url(#paper)"/><rect width="1440" height="500" fill="url(#grain)"/>
+<circle cx="1135" cy="220" r="210" fill="#9db3a5" opacity=".15"/><path d="M0 435Q185 400 370 435T740 435T1110 435T1480 435V520H0Z" fill="#9db3a5" opacity=".14"/>
+<path d="M-20 68H320M1120 452h340" stroke="#25443c" stroke-opacity=".13" stroke-width="2"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M710 390q-12-76 20-137 21-40 78-55l42 25 11 54 41 37-26 28-1 48Z" fill="#d6c7a5" stroke="#25443c" stroke-width="8"/><path d="M792 198q49-73 116-6" fill="none" stroke="#25443c" stroke-width="11"/><path d="M610 153h-86v165h121l55 45v-45h16V153Z" fill="#f5f3ed" stroke="#83aaa5" stroke-width="8"/><path d="M560 205h92M560 242h62" stroke="#25443c" stroke-width="7" stroke-linecap="round"/><circle cx="1030" cy="170" r="36" fill="#d76d42"/><path d="M1024 157q4-17 22-11 19 8 4 26l-14 15m0 15v3" fill="none" stroke="#f5f3ed" stroke-width="7" stroke-linecap="round"/></g></svg>

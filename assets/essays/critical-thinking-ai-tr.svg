@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">critical thinking ai tr</title>
+<desc id="desc">Subject-specific editorial illustration</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e3e9e9"/><stop offset="1" stop-color="#f8f6ef"/></linearGradient><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.2" fill="#25443c" opacity=".075"/><circle cx="27" cy="24" r="1" fill="#d76d42" opacity=".055"/></pattern></defs>
+<rect width="1440" height="500" fill="url(#paper)"/><rect width="1440" height="500" fill="url(#grain)"/>
+<circle cx="1135" cy="220" r="210" fill="#91aeb2" opacity=".15"/><path d="M0 435Q185 400 370 435T740 435T1110 435T1480 435V520H0Z" fill="#91aeb2" opacity=".14"/>
+<path d="M-20 68H320M1120 452h340" stroke="#25443c" stroke-opacity=".13" stroke-width="2"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M660 400q-27-40-16-113 11-85 92-115l61 25 16 64 52 35-34 33 0 71Z" fill="#d9c9a8" stroke="#25443c" stroke-width="8"/><path d="M712 211q48-57 99-3m-93 84h29m48 0h25m-74 52q34 27 69 0" fill="none" stroke="#25443c" stroke-width="8" stroke-linecap="round"/><path d="M944 147h115v77h85v92h-91v85h-109v-73h-86v-97h86Z" fill="none" stroke="#83aaa5" stroke-width="9"/><circle cx="944" cy="147" r="15" fill="#d76d42"/><circle cx="1144" cy="224" r="15" fill="#d76d42"/><circle cx="1053" cy="401" r="15" fill="#d76d42"/></g></svg>

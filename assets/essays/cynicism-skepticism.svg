@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">cynicism skepticism</title>
+<desc id="desc">Subject-specific editorial illustration</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7e2d8"/><stop offset="1" stop-color="#f8f6ef"/></linearGradient><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.2" fill="#25443c" opacity=".075"/><circle cx="27" cy="24" r="1" fill="#d76d42" opacity=".055"/></pattern></defs>
+<rect width="1440" height="500" fill="url(#paper)"/><rect width="1440" height="500" fill="url(#grain)"/>
+<circle cx="1135" cy="220" r="210" fill="#c4b48f" opacity=".15"/><path d="M0 435Q185 400 370 435T740 435T1110 435T1480 435V520H0Z" fill="#c4b48f" opacity=".14"/>
+<path d="M-20 68H320M1120 452h340" stroke="#25443c" stroke-opacity=".13" stroke-width="2"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M720 440V320M720 320 545 185M720 320 895 185" fill="none" stroke="#25443c" stroke-width="10" stroke-linecap="round"/><path d="M545 185q-54 28-77 77M895 185q54 28 77 77" fill="none" stroke="#83aaa5" stroke-width="8"/><path d="M676 185h88l-12 68h-64ZM693 185v-40h54v40" fill="#d9c797" stroke="#25443c" stroke-width="7"/><path d="M720 112v-38m-64 57-27-27m155 27 27-27" stroke="#d76d42" stroke-width="7"/></g></svg>

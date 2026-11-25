@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">machiavelli</title>
+<desc id="desc">Subject-specific editorial illustration</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e4d9"/><stop offset="1" stop-color="#f8f6ef"/></linearGradient><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1.2" fill="#25443c" opacity=".075"/><circle cx="27" cy="24" r="1" fill="#d76d42" opacity=".055"/></pattern></defs>
+<rect width="1440" height="500" fill="url(#paper)"/><rect width="1440" height="500" fill="url(#grain)"/>
+<circle cx="1135" cy="220" r="210" fill="#c5b187" opacity=".15"/><path d="M0 435Q185 400 370 435T740 435T1110 435T1480 435V520H0Z" fill="#c5b187" opacity=".14"/>
+<path d="M-20 68H320M1120 452h340" stroke="#25443c" stroke-opacity=".13" stroke-width="2"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M620 340h330v118H620z" fill="#25443c"/><path d="M620 340h82v59h-82m164-59v59h83m-165 0v59m165-59v59" fill="none" stroke="#f5f3ed" stroke-width="8"/><path d="M775 318l22-85 30 63 43-62-4 84Z" fill="#d76d42" stroke="#25443c" stroke-width="7"/><path d="M752 318h144v28H752zM782 221l18-31 28 27 28-31 25 35" fill="#d9c797" stroke="#25443c" stroke-width="7"/><path d="M1040 350V190h58v160M1020 190l48-72 48 72" fill="#c6b48e" stroke="#25443c" stroke-width="8"/></g></svg>
